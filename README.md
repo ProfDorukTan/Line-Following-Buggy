@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The project utilizes the STM32F401RE microcontroller, 6 TCRT 5000 sensors, 2 DC motors, and 2 encoders.
+The project utilizes the STM32F401RE microcontroller, 6 TCRT 5000 sensors, 2 DC motors, 2 encoders, and optional bluetooth sensor. The program will not work unless the exact microcontroller connections are configured.
 
 ### Objective
 
